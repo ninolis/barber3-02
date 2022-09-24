@@ -11,3 +11,7 @@ very good pdf compressing
 
 HTML Currency Symbols, Currency Entities and ASCII Currency Character Code Reference
 https://www.toptal.com/designers/htmlarrows/symbols/
+
+
+HTML & CSS Web Safe Fonts
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
