@@ -15,3 +15,18 @@ https://www.toptal.com/designers/htmlarrows/symbols/
 
 HTML & CSS Web Safe Fonts
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+
+Specificity Calculator
+A visual way to understand CSS specificity.
+https://specificity.keegan.st/
+
+Google fonts
+https://fonts.google.com/
+
+find all fonts on Figma
+plugin
+Font Fascia
+
+default style sheet used to render HTML
+https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css

@@ -1,0 +1,52 @@
+:root {
+  --primary-color: #555555;
+  --secondary-color: blue;
+  --accent-color: #e27815;
+  --link-color: green;
+}
+
+body {
+  /* color: var(--primary-color); */
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+}
+
+/* font-family: 'Open Sans', sans-serif; */
+/* font-family: 'Raleway', sans-serif; */
+.header-logo {
+}
+
+.header-nav {
+}
+
+.header-list {
+}
+
+.header-item {
+}
+
+.header-contact {
+}
+
+.header-btn {
+}
+
+.hero {
+}
+
+.hero-social {
+}
+
+.social-item {
+}
+
+.hero-pre-title {
+}
+
+.hero-title {
+}
+
+.hero-description {
+}
